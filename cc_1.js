@@ -22,21 +22,21 @@ console.log(products, productDetails);
 
 //Task 3: Assignment Operators
 
-let accountBalance = 1050.00;
+let accountBalance = 1000;
 
-accountBalance += 100;
+accountBalance += 200;
 console.log('value of accountBalance is : ' +accountBalance)
 
-accountBalance -= 50;
+accountBalance -= 150;
 console.log ('value of accountBalance is : ' -accountBalance)
 
-accountBalance *= 3;
+accountBalance *= 1;
 console.log ('value of accountBalance is : ' *accountBalance)
 
-accountBalance /=4
+accountBalance /=5
 console.log ('value of accountBalance is : ' /accountBalance)
 
-accountBalance %= 14;
+accountBalance %= .85;
 console.log ('value of accountBalance is : ' %accountBalance)
 
 
