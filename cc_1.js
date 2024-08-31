@@ -25,18 +25,18 @@ console.log(products, productDetails);
 let accountBalance = 1000;
 
 accountBalance += 200;
-console.log('value of accountBalance is : ' +accountBalance)
+console.log('value of accountBalance is : ' +accountBalance);
 
 accountBalance -= 150;
-console.log ('value of accountBalance is : ' -accountBalance)
+console.log ('value of accountBalance is : ' -accountBalance);
 
 accountBalance *= 1;
-console.log ('value of accountBalance is : ' *accountBalance)
+console.log ('value of accountBalance is : ' *accountBalance);
 
 accountBalance /=5
-console.log ('value of accountBalance is : ' /accountBalance)
+console.log ('value of accountBalance is : ' /accountBalance);
 
 accountBalance %= .85;
-console.log ('value of accountBalance is : ' %accountBalance)
+console.log ('value of accountBalance is : ' %accountBalance);
 
 
