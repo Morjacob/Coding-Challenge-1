@@ -31,7 +31,7 @@ accountBalance -= 50;
 console.log ('value of accountBalance is : ' -accountBalance)
 
 accountBalance *= 3;
-console.logconsole.log ('value of accountBalance is : ' *accountBalance)
+console.log ('value of accountBalance is : ' *accountBalance)
 
 accountBalance /=4
 console.log ('value of accountBalance is : ' /accountBalance)
