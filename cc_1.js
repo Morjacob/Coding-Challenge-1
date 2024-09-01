@@ -28,16 +28,16 @@ accountBalance += 200;
 console.log(+accountBalance);
 
 accountBalance -= 150;
-console.log (-accountBalance);
+console.log (+accountBalance);
 
 accountBalance *= 1;
-console.log (*accountBalance);
+console.log (+accountBalance);
 
 accountBalance /=5
-console.log (/accountBalance);
+console.log (+accountBalance);
 
 accountBalance %= .85;
-console.log (%accountBalance);
+console.log (+accountBalance);
 
 
 //Task 4 Comparison Operators
