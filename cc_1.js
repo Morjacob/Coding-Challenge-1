@@ -69,7 +69,10 @@ let hasKeyCard = true
 let hasPermission = false
 
 hasKeyCard && hasPermission;
+console.log (hasKeyCard && hasPermission);
+
 hasKeyCard || hasPermission;
+console.log(hasKeyCard || hasPermission);
 
 console.log(!hasKeyCard);
 console.log(!hasPermission);
