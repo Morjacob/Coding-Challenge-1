@@ -42,8 +42,8 @@ console.log ('value of accountBalance is : ' %accountBalance);
 
 //Task 4 Comparison Operators
 
-let employeeScore1 = 10;
-let employeeScore2 = 20;
+var employeeScore1 = 10;
+var employeeScore2 = 20;
 
 let result = employeeScore1 > employeeScore2;
 console.log(result)
