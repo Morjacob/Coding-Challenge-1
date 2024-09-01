@@ -72,3 +72,4 @@ hasKeyCard && hasPermission;
 hasKeyCard || hasPermission;
 
 console.log(!hasKeyCard);
+console.log(!haspermission);
