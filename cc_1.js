@@ -51,11 +51,11 @@ console.log(employeeScore1 > employeeScore2);
 employeeScore1 < employeeScore2;
 console.log(employeeScore1 < employeeScore2);
 
-employeeScore1 >== employeeScore2;
-console.log(employeeScore1 >== employeeScore2);
+employeeScore1 >= employeeScore2;
+console.log(employeeScore1 >= employeeScore2);
 
-employeeScore1 <== employeeScore2;
-console.log(employeeScore1 <== employeeScore2);
+employeeScore1 <= employeeScore2;
+console.log(employeeScore1 <= employeeScore2);
 
 employeeScore1 === employeeScore2;
 console.log(employeeScore1 === employeeScore2);
