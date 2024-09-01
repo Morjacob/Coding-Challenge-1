@@ -45,20 +45,20 @@ console.log ('value of accountBalance is : ' %accountBalance);
 var employeeScore1 = 10;
 var employeeScore2 = 20;
 
-let result = employeeScore1 > employeeScore2;
-console.log(result)
+employeeScore1 > employeeScore2;
+console.log(employeeScore1 > employeeScore2);
 
-let result = employeeScore1 < employeeScore2;
-console.log(result)
+employeeScore1 < employeeScore2;
+console.log(employeeScore1 < employeeScore2);
 
-let result = employeeScore1 >== employeeScore2;
-console.log(result)
+employeeScore1 >== employeeScore2;
+console.log(employeeScore1 >== employeeScore2);
 
-let result = employeeScore1 <== employeeScore2;
-console.log(result)
+employeeScore1 <== employeeScore2;
+console.log(employeeScore1 <== employeeScore2);
 
-let result = employeeScore1 === employeeScore2;
-console.log(result)
+employeeScore1 === employeeScore2;
+console.log(employeeScore1 === employeeScore2);
 
-let result = employeeScore1 !== employeeScore2;
-console.log(result)
+employeeScore1 !== employeeScore2;
+console.log(employeeScore1 !== employeeScore2);
